@@ -1,0 +1,45 @@
+body {
+    font-family: 'Noto Sans Vithkuqi', sans-serif;
+    background-color: black;
+    color: white; 
+  }
+  
+  h1 {
+    font-family:'Noto Sans Vithkuqi', sans-serif; /* Ensure it uses the desired font family */
+    font-weight: 200; /* Adjust the font weight to make it slimmer */
+    font-size: 40px;
+    }
+  
+  div {
+    margin: 30px;
+  }
+  
+  #div1 {
+    margin-top: 65px;
+  }
+  
+  #div2 {
+    padding-bottom: 15px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    width: fit-content;
+  }
+  
+  #div3 {
+    color: red;
+  }
+  
+  button {
+    width: 170px;
+    height: 40px;
+    font-size: medium;
+    margin-right: 12px;
+    background-color: white;
+    color: black;
+  }
+  
+  #button3 {
+    background-color: black; /* Set background color for Clear button */
+    color: white; /* Set text color for Clear button */
+    border-color: white;
+  }
